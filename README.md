@@ -11,11 +11,11 @@
 
 <!-- About me -->
 <div>
-As a very quick introduction, here's a bit about me:
-
-- Speak English, Spanish, Catalan and German.
-- Enjoy running <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-running_medium-light-skin-tone_1f3c3-1f3fc_1f3fc.png" width="20px" alt="Running" />, hiking <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-walking_medium-light-skin-tone_1f6b6-1f3fc_1f3fc.png" width="20px" alt="Walking" />, and the occasional meditation <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-in-lotus-position-medium-light-skin-tone_1f9d8-1f3fc-200d-2642-fe0f.png" width="20px" alt="Meditate" />.
-- Have a very cute, somewhat crazy Border Collie. If you visit my [portfolio](https://gomisroca.github.io/portfolio/)'s 'About me' section, you'll see him!
+   <p width="20px">As a very quick introduction, here's a bit about me:</p>
+   
+   - Speak English, Spanish, Catalan and German.
+   - Enjoy running <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-running_medium-light-skin-tone_1f3c3-1f3fc_1f3fc.png" width="20px" alt="Running" />, hiking <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-walking_medium-light-skin-tone_1f6b6-1f3fc_1f3fc.png" width="20px" alt="Walking" />, and the occasional meditation <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-in-lotus-position-medium-light-skin-tone_1f9d8-1f3fc-200d-2642-fe0f.png" width="20px" alt="Meditate" />.
+   - Have a very cute, somewhat crazy Border Collie. If you visit my [portfolio](https://gomisroca.github.io/portfolio/)'s 'About me' section, you'll see him!
 </div>
 
 <p align="center">
@@ -61,7 +61,7 @@ As a very quick introduction, here's a bit about me:
       alt="Technologist" />
    <span>Projects</span>
 </h1>
-<div>
+<div align="center">
    <table>
       <tbody>
          <tr>
@@ -166,7 +166,7 @@ As a very quick introduction, here's a bit about me:
       <h4>You can also contact me on:</h4>
       <h3>
          <img 
-            align="center"
+            align="end"
             src="https://em-content.zobj.net/source/microsoft-teams/363/e-mail_1f4e7.png"
             width="20px" />
          <a href="mailto:gomisroca@gmail.com">
@@ -175,7 +175,7 @@ As a very quick introduction, here's a bit about me:
       </h3>
       <h3>
          <img 
-            align="center"
+            align="end"
             src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" 
             width="20px" 
             height="14px" />
