@@ -63,18 +63,18 @@ As a very quick introduction, here's a bit about me:
 </h1>
 <div>
    <table>
-       <tr>
-         <td>
-            <a href="https://github.com/gomisroca/dungeoneer">
-               <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=dungeoneer&theme=tokyonight&hide_border=true&border_radius=15" />
-            </a>
-         </td>
-         <td>
-            <a href="https://github.com/gomisroca/catalyst">
-               <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=catalyst&theme=tokyonight&hide_border=true&border_radius=15" />
-            </a>
-         </td>
-      </tr>
+      <td>
+         <a href="https://github.com/gomisroca/dungeoneer">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=dungeoneer&theme=tokyonight&hide_border=true&border_radius=15" />
+         </a>
+      </td>
+      <td>
+         <a href="https://github.com/gomisroca/catalyst">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=catalyst&theme=tokyonight&hide_border=true&border_radius=15" />
+         </a>
+      </td>
+   </table>
+   <table>
       <tr>
          <td>
             <a href="https://github.com/gomisroca/esia">
@@ -87,6 +87,8 @@ As a very quick introduction, here's a bit about me:
             </a>
          </td>
       </tr>
+   </table>
+   <table>
       <tr>
          <td>
             <a href="https://github.com/gomisroca/echoes">
