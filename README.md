@@ -59,10 +59,10 @@
 </h1>
 <div align="center">
    <p float="center">
-      <a href="https://github.com/gomisroca/dungeoneer" text-decoration="none">
+      <a href="https://github.com/gomisroca/dungeoneer">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=dungeoneer&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
-      <a href="https://github.com/gomisroca/catalyst" text-decoration="none">
+      <a href="https://github.com/gomisroca/catalyst">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=catalyst&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
    </p>
@@ -74,12 +74,12 @@
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=oura&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
    </p>
-    <p float="center">
-      <a href="https://github.com/gomisroca/echoes" >
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=echoes&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
+   <p float="center">
+      <a href="https://github.com/gomisroca/portfolio">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
-      <a href="https://github.com/gomisroca/trekking-trails">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=trekking-trails&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
+      <a href="https://github.com/gomisroca/echoes">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=echoes&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
    </p>
 </div>
