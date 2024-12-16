@@ -59,10 +59,10 @@
 </h1>
 <div align="center">
    <p float="center">
-      <a href="https://github.com/gomisroca/dungeoneer">
+      <a href="https://github.com/gomisroca/dungeoneer" text-decoration="none">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=dungeoneer&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
-      <a href="https://github.com/gomisroca/catalyst">
+      <a href="https://github.com/gomisroca/catalyst" text-decoration="none">
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=catalyst&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
    </p>
@@ -75,7 +75,7 @@
       </a>
    </p>
     <p float="center">
-      <a href="https://github.com/gomisroca/echoes">
+      <a href="https://github.com/gomisroca/echoes" >
          <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=echoes&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
       <a href="https://github.com/gomisroca/trekking-trails">
