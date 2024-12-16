@@ -34,20 +34,16 @@
       src="https://github-readme-activity-graph.vercel.app/graph?username=gomisroca&theme=tokyo-night&hide_border=true&radius=15"
       alt="GitHub Activity Graph" />
       
-   <table>
-       <tr>
-         <td>
-            <img 
-               src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gomisroca&theme=tokyonight&hide_border=true&radius=15"
-               alt="Top Languages" />
-         </td>
-         <td>
-            <img 
-               src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomisroca&theme=tokyonight&hide_border=true&radius=15" 
-               alt="Most Commit Language" />
-         </td>
-      </tr>
-   </table>
+   <p align="center">
+      <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gomisroca&theme=tokyonight&hide_border=true&radius=15"
+         alt="Top Languages"
+         width="350px" />
+      <img 
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomisroca&theme=tokyonight&hide_border=true&radius=15" 
+         alt="Most Commit Language"
+         width="350px" />
+   </p>
 </div>
 
 <!-- Repositories -->
@@ -64,26 +60,26 @@
 <div align="center">
    <p float="center">
       <a href="https://github.com/gomisroca/dungeoneer">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=dungeoneer&theme=tokyonight&hide_border=true&border_radius=15" width="325px" />
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=dungeoneer&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
       <a href="https://github.com/gomisroca/catalyst">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=catalyst&theme=tokyonight&hide_border=true&border_radius=15" width="325px" />
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=catalyst&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
    </p>
    <p float="center">
       <a href="https://github.com/gomisroca/esia">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=esia&theme=tokyonight&hide_border=true&border_radius=15" width="325px" />
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=esia&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
       <a href="https://github.com/gomisroca/oura">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=oura&theme=tokyonight&hide_border=true&border_radius=15" width="325px" />
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=oura&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
    </p>
     <p float="center">
       <a href="https://github.com/gomisroca/echoes">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=echoes&theme=tokyonight&hide_border=true&border_radius=15" width="325px" />
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=echoes&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
       <a href="https://github.com/gomisroca/trekking-trails">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=trekking-trails&theme=tokyonight&hide_border=true&border_radius=15" width="325px" />
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=gomisroca&repo=trekking-trails&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
    </p>
 </div>
