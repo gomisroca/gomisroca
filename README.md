@@ -28,7 +28,7 @@
 <!-- Stats -->
 <div align="center">
    <img 
-      src="https://streak-stats.demolab.com/?user=gomisroca&theme=tokyonight&hide_border=true&radius=15"
+      src="https://github-readme-streak-stats-theta-sable.vercel.app/?user=gomisroca&theme=tokyonight&hide_border=true&radius=15"
       alt="GitHub Streak" />
    <img 
       src="https://github-readme-activity-graph.vercel.app/graph?username=gomisroca&theme=tokyo-night&hide_border=true&radius=15"
