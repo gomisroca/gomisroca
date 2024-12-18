@@ -31,16 +31,16 @@
       src="https://github-readme-streak-stats-theta-sable.vercel.app/?user=gomisroca&theme=tokyonight&hide_border=true&radius=15"
       alt="GitHub Streak" />
    <img 
-      src="https://github-readme-activity-graph.vercel.app/graph?username=gomisroca&theme=tokyo-night&hide_border=true&radius=15"
+      src="https://github-readme-activity-graph-khaki.vercel.app/graph?username=gomisroca&theme=tokyo-night&hide_border=true&radius=15"
       alt="GitHub Activity Graph" />
       
    <p align="center">
       <img 
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gomisroca&theme=tokyonight&hide_border=true&radius=15"
+         src="https://github-profile-summary-cards-seven.vercel.app/api/cards/repos-per-language?username=gomisroca&theme=tokyonight&hide_border=true&radius=15"
          alt="Top Languages"
          width="350px" />
       <img 
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gomisroca&theme=tokyonight&hide_border=true&radius=15" 
+         src="https://github-profile-summary-cards-seven.vercel.app/api/cards/most-commit-language?username=gomisroca&theme=tokyonight&hide_border=true&radius=15" 
          alt="Most Commit Language"
          width="350px" />
    </p>
