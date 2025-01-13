@@ -6,7 +6,7 @@
          alt="Hand Waving" /> 
       <span>Hello there</span>
    </h3>
-   <h4>I'm Adrià, a full-stack developer from Barcelona.</h3>
+   <h4>I'm Adrià, a full-stack developer from Barcelona, Spain.</h3>
 </div>
 
 <!-- About me -->
