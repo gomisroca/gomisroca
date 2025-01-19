@@ -153,13 +153,5 @@
             gomisroca@gmail.com
          </a>
       </h3>
-      <h3>
-         <img 
-            align="end"
-            src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" 
-            width="20px" 
-            height="14px" />
-         <span>gomisroca</span>
-      </h3>
    </div>
 </div>
