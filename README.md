@@ -28,9 +28,6 @@
 <!-- Stats -->
 <div align="center">
    <img 
-      src="https://github-readme-streak-stats-theta-sable.vercel.app/?user=gomisroca&theme=tokyonight&hide_border=true&radius=15"
-      alt="GitHub Streak" />
-   <img 
       src="https://github-readme-activity-graph-khaki.vercel.app/graph?username=gomisroca&theme=tokyo-night&hide_border=true&radius=15"
       alt="GitHub Activity Graph" />
       
@@ -44,6 +41,10 @@
          alt="Most Commit Language"
          width="350px" />
    </p>
+   
+   <img 
+      src="https://github-readme-streak-stats-theta-sable.vercel.app/?user=gomisroca&theme=tokyonight&hide_border=true&radius=15"
+      alt="GitHub Streak" />
 </div>
 
 <!-- Repositories -->
