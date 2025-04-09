@@ -13,8 +13,8 @@
 <div>
    <p width="20px">Here's a bit about me:</p>
    
-   - Speak English, Spanish, Catalan and German.
-   - Enjoy running <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-running_medium-light-skin-tone_1f3c3-1f3fc_1f3fc.png" width="20px" alt="Running" />, hiking <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-walking_medium-light-skin-tone_1f6b6-1f3fc_1f3fc.png" width="20px" alt="Walking" />, and the occasional meditation <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-in-lotus-position-medium-light-skin-tone_1f9d8-1f3fc-200d-2642-fe0f.png" width="20px" alt="Meditate" />.
+   - Speak English, Spanish, Catalan and German
+   - Enjoy running <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-running_medium-light-skin-tone_1f3c3-1f3fc_1f3fc.png" width="20px" alt="Running" />, hiking <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-walking_medium-light-skin-tone_1f6b6-1f3fc_1f3fc.png" width="20px" alt="Walking" />, and the occasional meditation <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-in-lotus-position-medium-light-skin-tone_1f9d8-1f3fc-200d-2642-fe0f.png" width="20px" alt="Meditate" />
    - Have a very cute, somewhat crazy Border Collie. If you visit my [portfolio](https://gomisroca.github.io/portfolio/)'s 'About me' section, you'll see him!
 </div>
 
