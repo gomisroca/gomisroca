@@ -11,7 +11,7 @@
 
 <!-- About me -->
 <div>
-   <p width="20px">As a very quick introduction, here's a bit about me:</p>
+   <p width="20px">Here's a bit about me:</p>
    
    - Speak English, Spanish, Catalan and German.
    - Enjoy running <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-running_medium-light-skin-tone_1f3c3-1f3fc_1f3fc.png" width="20px" alt="Running" />, hiking <img src="https://em-content.zobj.net/source/microsoft-teams/363/person-walking_medium-light-skin-tone_1f6b6-1f3fc_1f3fc.png" width="20px" alt="Walking" />, and the occasional meditation <img src="https://em-content.zobj.net/source/microsoft-teams/363/man-in-lotus-position-medium-light-skin-tone_1f9d8-1f3fc-200d-2642-fe0f.png" width="20px" alt="Meditate" />.
@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-   Okay, with that out of the way, let's get to what you are here for!
+   With that said, here are some stats so you might get an idea of how I work
    <img 
       src="https://em-content.zobj.net/source/microsoft-teams/363/backhand-index-pointing-down_1f447.png" 
       width="20px"
