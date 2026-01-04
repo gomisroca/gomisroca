@@ -61,26 +61,26 @@
 <div align="center">
    <p float="center">
       <a href="https://github.com/gomisroca/catalyst">
-         <img src="https://github-readme-stats-gomisroca.vercel.app/api/pin/?username=gomisroca&repo=catalyst&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
+         <img src="https://github-readme-stats-sigma-ten-13.vercel.app/api/pin/?username=gomisroca&repo=catalyst&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
       <a href="https://github.com/gomisroca/dungeoneer">
-         <img src="https://github-readme-stats-gomisroca.vercel.app/api/pin/?username=gomisroca&repo=dungeoneer&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
+         <img src="https://github-readme-stats-sigma-ten-13.vercel.app/api/pin/?username=gomisroca&repo=dungeoneer&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
    </p>
    <p float="center">
       <a href="https://github.com/gomisroca/echoes">
-         <img src="https://github-readme-stats-gomisroca.vercel.app/api/pin/?username=gomisroca&repo=echoes&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
+         <img src="https://github-readme-stats-sigma-ten-13.vercel.app/api/pin/?username=gomisroca&repo=echoes&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
       <a href="https://github.com/gomisroca/esia">
-         <img src="https://github-readme-stats-gomisroca.vercel.app/api/pin/?username=gomisroca&repo=esia&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
+         <img src="https://github-readme-stats-sigma-ten-13.vercel.app/api/pin/?username=gomisroca&repo=esia&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
    </p>
    <p float="center">
       <a href="https://github.com/gomisroca/portfolio">
-         <img src="https://github-readme-stats-gomisroca.vercel.app/api/pin/?username=gomisroca&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
+         <img src="https://github-readme-stats-sigma-ten-13.vercel.app/api/pin/?username=gomisroca&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
       <a href="https://github.com/gomisroca/oura">
-         <img src="https://github-readme-stats-gomisroca.vercel.app/api/pin/?username=gomisroca&repo=oura&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
+         <img src="https://github-readme-stats-sigma-ten-13.vercel.app/api/pin/?username=gomisroca&repo=oura&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
    </p>
 </div>
