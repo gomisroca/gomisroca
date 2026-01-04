@@ -76,8 +76,8 @@
       </a>
    </p>
    <p float="center">
-      <a href="https://github.com/gomisroca/portfolio">
-         <img src="https://github-readme-stats-sigma-ten-13.vercel.app/api/pin/?username=gomisroca&repo=portfolio&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
+      <a href="https://github.com/gomisroca/gasthaus">
+         <img src="https://github-readme-stats-sigma-ten-13.vercel.app/api/pin/?username=gomisroca&repo=gasthaus&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
       </a>
       <a href="https://github.com/gomisroca/oura">
          <img src="https://github-readme-stats-sigma-ten-13.vercel.app/api/pin/?username=gomisroca&repo=oura&theme=tokyonight&hide_border=true&border_radius=15" width="350px" />
